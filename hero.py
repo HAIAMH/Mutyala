@@ -36,14 +36,14 @@ Cʟɪᴄᴋ /ɪɴғᴏ ᴏғ ᴛᴏ ɢᴇᴛ 👇👇
 """
 
 ABOUT_TEXT = """**Aʙᴏᴜᴛ Yᴏᴜsᴇʟғ**
-• **Bᴏᴛ ɴᴀᴍᴇ:** [MHɪNFᴏBᴏT](https://t.me/MutyalaBoT)
-• **Cʀᴇᴀᴛᴏʀ :** [Mᴜᴛʏᴀʟᴀ Hᴀʀsʜɪᴛʜ](https://t.me/MutyalaHarshith)
-• **GɪᴛHᴜʙ** : [Fᴏʟʟᴏᴡ](https://GitHub.com/MutyalaHarshith)
-• **Sᴏᴜʀᴄᴇ** : [MHɪNFᴏBᴏT](https://github.com/TeleGraMaN/MHiNFoBoT)
+• **Bᴏᴛ ɴᴀᴍᴇ:** [Mᴜᴛʏᴀʟᴀ](https://t.me/MutyalaBoT)
+• **Cʀᴇᴀᴛᴏʀ :** [Mᴜᴛʏᴀʟᴀ Hᴀʀsʜɪᴛʜ](https://t.me/Develoveper)
+• **GɪᴛHᴜʙ** : [Fᴏʟʟᴏᴡ](https://GitHub.com/HAIAMH)
+• **Sᴏᴜʀᴄᴇ** : [MHɪNFᴏBᴏT](https://github.com/HAIAMH/Mutyala)
 • **Sᴜᴘᴘᴏʀᴛ** : [ᴍʜɢᴄʜᴀᴛ](https://t.me/MHGcHaT)
 • **Lᴀɴɢᴜᴀɢᴇ :** [Pʏᴛʜᴏɴ 𝟹](https://python.org)
 • **Lɪʙʀᴀʀʏ :** [Pʏʀᴏɢʀᴀᴍ ᴠ𝟷.𝟸.𝟶](https://pyrogram.org)
-• **Sᴇʀᴠᴇʀ :** [Hᴇʀᴏᴋᴜ](https://heroku.com)"""
+• **Sᴇʀᴠᴇʀ :** [Render](https://Render.com)"""
 
 BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton(text="💞 Join", url=f"https://t.me/MutyalaHarshith")],
                                 [InlineKeyboardButton(text="HoME", callback_data='home'),
@@ -278,5 +278,5 @@ async def telegraph(client, message):
    
 
 
-print("✨✨ Start BoT By Created Mutyala Harshith ✨✨")
+print("✨✨ Hero ante Mutyala Harshith ✨✨")
 Bot.run()
